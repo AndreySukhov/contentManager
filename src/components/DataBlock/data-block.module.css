@@ -1,0 +1,15 @@
+.wrap {
+  margin-bottom: 20px;
+}
+
+.btn-expanded-base {
+  transition: transform 0.15s ease-out;
+}
+
+.btn-expanded {
+  transform: rotate(90deg);
+}
+
+.block-content {
+  margin-top: 20px;
+}
